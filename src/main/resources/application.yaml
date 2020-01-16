@@ -1,0 +1,6 @@
+spring:
+  main:
+    banner-mode: log
+logging:
+  level:
+    com.holidu.interview.assignment: INFO

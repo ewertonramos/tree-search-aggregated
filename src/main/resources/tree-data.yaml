@@ -1,0 +1,4 @@
+base-url: https://data.cityofnewyork.us
+resource-id: nwxe-4ae8
+decimal-rounding: 5
+where-formula: (x_sp - %s)^2 + (y_sp - %s)^2 <= %s^2
